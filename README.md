@@ -1,4 +1,10 @@
-# 🌐 Enterprise Network Fortification Project
+## 🎯 Why This Matters for Cybersecurity Roles
+This lab demonstrates hands-on skills in:
+- Network segmentation (NIST SP 800-53 AC-4)
+- Access control (NIST SP 800-192)
+- Secure remote access (CIS Control 12)
+-
+- # 🌐 Enterprise Network Fortification Project
 
 **Cisco Packet Tracer | Network Security | Zero Trust Architecture**
 
